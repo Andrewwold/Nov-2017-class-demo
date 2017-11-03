@@ -1,0 +1,33 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+ul {
+	width: 120px;
+}
+
+li {
+	width: 100px; 
+ }
+
+.test {
+	margin-top: 8%;
+	margin-bottom: 8%;
+}
+
+.banner {
+	text-align: center;
+	
+
+}
+
+.map-text {
+	text-align: center;
+}
+
+.nav {
+	margin-right: 8%;
+}
+
+.nav a {
+	color: green;
+}
